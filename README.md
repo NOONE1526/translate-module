@@ -2,7 +2,7 @@
 python module to translate any text on  English to Russian and backwards.
 
                              how to use:
-from translate import translate as tr
+$ from translate import translate as tr
 
                            How to install:
 put translate.py to folder you need 
